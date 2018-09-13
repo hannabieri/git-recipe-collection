@@ -1,0 +1,6 @@
+Chili con lentils
+(Like chili con carne but with lentils instead)
+- lentils
+- beans
+- tomatoes
+- water
